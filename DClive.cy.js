@@ -1,3 +1,4 @@
+
 /// <reference types="cypress"/>
 
 import live from '../PageObjects/live.cy'

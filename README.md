@@ -1,7 +1,7 @@
 # cypress
 
 Hi 
-This is my testcripts for the e-commerce and man other websites. I tried many concepts in cypress implemented it.
+This is my testcripts for the e-commerce and many other websites. I tried many concepts in cypress implemented it.
 Concepts
 API testing
 Page Object Model

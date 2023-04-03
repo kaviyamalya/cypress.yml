@@ -1,3 +1,4 @@
+
 /// <reference types="cypress" /> 
 
 import Regist from '../PageObjects/Regist.cy'
